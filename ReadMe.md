@@ -5,6 +5,15 @@ This project contains multiple data science tasks focusing on data analysis, cle
 
 ---
 
+## Team members:
+Ahmed Khaled          42310090 (TL)
+Ziyad Ashraf          42310062
+Youssef Ayman         42310376
+Ebrahim Ragab         42310461
+Abdullah Abdelnaby    42310085
+Youssef Ahmed         42310281
+
+
 ## Task 1: Student Performance Factors Analysis
 
 ### Objective
